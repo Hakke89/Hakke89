@@ -2,4 +2,5 @@
 - 👀 I’m looking for my first job as a developer
 - 🌳 I have knowledge of PHP, HTML, CSS, and JavaScript
 - 🌱 I’m currently learning React
-- ⚡ Fun fact: I’m also a musician
+- ♟️ I love playing chess
+- 🎵 Fun fact: I’m also a musician
